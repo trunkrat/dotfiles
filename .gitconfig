@@ -1,8 +1,8 @@
 [user]
-  name = Jeff Geerling
-  email = geerlingguy@mac.com
+  name = Sam Zamora
+  email = a@a.com
 [core]
-  editor = vi
+  editor = nano
   excludesfile = ~/.gitignore
   autocrlf = input
 [color]
